@@ -33,7 +33,7 @@ From the subagent transcripts: input including cache reads and writes, plus outp
 | v1, six phases | 21 to 48 subagents | 0.77M to 6.5M |
 | v3.0 | 1 | 29.7k |
 | v3.0, report written twice (see Traps) | 1 (2 API calls) | 66.6k |
-| v3.1 | 1 | 15.8k to 16.1k (3 runs) |
+| v3.1 | 1 | 14.7k to 16.1k (4 runs) |
 | v3.0, four images and an 8-question checklist | 1 (2 turns) | 90.5k |
 | v3.1, the same images and checklist | 1 (2 turns) | 79.0k |
 | v3.1, Quick length, brief only | 1 | 11.0k |
