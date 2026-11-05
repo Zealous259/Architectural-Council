@@ -1,0 +1,12 @@
+{
+  "name": "architectural-council",
+  "description": "Architectural review board in one agent call: seven architect lenses and a neutral chair review a design, model, folio or text and return text in the session, with sealed lenses that each propose a move, collisions that end in a third move, a risk register, verdicts and a roadmap. A Quick length gives a 500-word read. No grades, no files.",
+  "version": "3.1.0",
+  "keywords": [
+    "architecture",
+    "design-review",
+    "council",
+    "feedback",
+    "critique"
+  ]
+}
